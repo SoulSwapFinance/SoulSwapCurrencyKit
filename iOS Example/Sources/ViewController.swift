@@ -3,7 +3,7 @@ import ComponentKit
 import SnapKit
 import SectionsTableView
 import CurrencyKit
-import StorageKit
+import SoulSwapStorageKit
 
 class ViewController: UIViewController {
     private let tableView = SectionsTableView(style: .grouped)

@@ -1,5 +1,5 @@
 import Combine
-import StorageKit
+import SoulSwapStorageKit
 
 public class CurrencyManager {
     private let keyBaseCurrencyCode = "base_currency_code"

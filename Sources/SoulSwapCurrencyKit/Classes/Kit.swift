@@ -1,6 +1,6 @@
 import Combine
 import UIKit
-import StorageKit
+import SoulSwapStorageKit
 
 public class Kit {
     private static let supportedCurrencies = [
