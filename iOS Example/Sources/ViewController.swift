@@ -2,7 +2,7 @@ import UIKit
 import ComponentKit
 import SnapKit
 import SectionsTableView
-import CurrencyKit
+import SoulSwapCurrencyKit
 import SoulSwapStorageKit
 
 class ViewController: UIViewController {
